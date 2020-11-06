@@ -1,0 +1,3 @@
+/cygdrive/c/Users/Asus/Desktop/progtest/DU4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/Asus/Desktop/progtest/DU4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/c/Users/Asus/Desktop/progtest/DU4/cmake-build-debug/CMakeFiles/DU4.dir
